@@ -1,0 +1,4 @@
+C:\Users\dcui\source\repos\TestLab1\obj\Debug\net10.0\TestLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\TestLab1\obj\Debug\net10.0\TestLab1.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\TestLab1\obj\Debug\net10.0\TestLab1.AssemblyInfo.cs
+C:\Users\dcui\source\repos\TestLab1\obj\Debug\net10.0\TestLab1.csproj.CoreCompileInputs.cache
