@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.AssemblyInfo.cs
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\ahsan\bin\Debug\net10.0\ahsan.exe
+C:\Users\dcui\source\repos\ahsan\bin\Debug\net10.0\ahsan.deps.json
+C:\Users\dcui\source\repos\ahsan\bin\Debug\net10.0\ahsan.runtimeconfig.json
+C:\Users\dcui\source\repos\ahsan\bin\Debug\net10.0\ahsan.dll
+C:\Users\dcui\source\repos\ahsan\bin\Debug\net10.0\ahsan.pdb
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.dll
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\refint\ahsan.dll
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.pdb
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.genruntimeconfig.cache
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ref\ahsan.dll
+C:\Users\dcui\source\repos\ahsan\obj\Debug\net10.0\ahsan.csproj.Up2Date
