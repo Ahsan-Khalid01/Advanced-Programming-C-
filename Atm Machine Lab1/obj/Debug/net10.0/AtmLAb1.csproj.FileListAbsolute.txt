@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.AssemblyInfo.cs
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\AtmLAb1\bin\Debug\net10.0\AtmLAb1.exe
+C:\Users\dcui\source\repos\AtmLAb1\bin\Debug\net10.0\AtmLAb1.deps.json
+C:\Users\dcui\source\repos\AtmLAb1\bin\Debug\net10.0\AtmLAb1.runtimeconfig.json
+C:\Users\dcui\source\repos\AtmLAb1\bin\Debug\net10.0\AtmLAb1.dll
+C:\Users\dcui\source\repos\AtmLAb1\bin\Debug\net10.0\AtmLAb1.pdb
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.dll
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\refint\AtmLAb1.dll
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.pdb
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.genruntimeconfig.cache
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\ref\AtmLAb1.dll
+C:\Users\dcui\source\repos\AtmLAb1\obj\Debug\net10.0\AtmLAb1.csproj.Up2Date
