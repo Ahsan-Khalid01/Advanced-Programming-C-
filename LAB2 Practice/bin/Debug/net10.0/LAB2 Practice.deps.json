@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LAB2 Practice/1.0.0": {
+        "runtime": {
+          "LAB2 Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB2 Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

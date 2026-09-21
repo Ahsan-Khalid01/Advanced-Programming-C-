@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SponRjXTDd8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcui\\source\\repos\\LAB2 Practice\\LAB2 Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcui\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\dcui\\source\\repos\\LAB2 Practice\\LAB2 Practice.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dcui\\source\\repos\\LAB2 Practice\\LAB2 Practice.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

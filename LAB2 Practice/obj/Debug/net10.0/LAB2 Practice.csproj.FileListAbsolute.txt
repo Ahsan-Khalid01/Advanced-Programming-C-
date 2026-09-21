@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\LAB2 Practice\bin\Debug\net10.0\LAB2 Practice.exe
+C:\Users\dcui\source\repos\LAB2 Practice\bin\Debug\net10.0\LAB2 Practice.deps.json
+C:\Users\dcui\source\repos\LAB2 Practice\bin\Debug\net10.0\LAB2 Practice.runtimeconfig.json
+C:\Users\dcui\source\repos\LAB2 Practice\bin\Debug\net10.0\LAB2 Practice.dll
+C:\Users\dcui\source\repos\LAB2 Practice\bin\Debug\net10.0\LAB2 Practice.pdb
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.AssemblyInfo.cs
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.dll
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\refint\LAB2 Practice.dll
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.pdb
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Practice.genruntimeconfig.cache
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\ref\LAB2 Practice.dll
+C:\Users\dcui\source\repos\LAB2 Practice\obj\Debug\net10.0\LAB2 Pra.C421FAFC.Up2Date
