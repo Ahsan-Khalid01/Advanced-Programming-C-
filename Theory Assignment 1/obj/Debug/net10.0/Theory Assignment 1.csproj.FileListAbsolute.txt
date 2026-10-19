@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\Theory Assignment 1\bin\Debug\net10.0\Theory Assignment 1.exe
+C:\Users\dcui\source\repos\Theory Assignment 1\bin\Debug\net10.0\Theory Assignment 1.deps.json
+C:\Users\dcui\source\repos\Theory Assignment 1\bin\Debug\net10.0\Theory Assignment 1.runtimeconfig.json
+C:\Users\dcui\source\repos\Theory Assignment 1\bin\Debug\net10.0\Theory Assignment 1.dll
+C:\Users\dcui\source\repos\Theory Assignment 1\bin\Debug\net10.0\Theory Assignment 1.pdb
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.AssemblyInfo.cs
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.dll
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\refint\Theory Assignment 1.dll
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.pdb
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory Assignment 1.genruntimeconfig.cache
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\ref\Theory Assignment 1.dll
+C:\Users\dcui\source\repos\Theory Assignment 1\obj\Debug\net10.0\Theory A.1DB70D27.Up2Date
