@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.AssemblyInfo.cs
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\LabMid\bin\Debug\net10.0\LabMid.exe
+C:\Users\dcui\source\repos\LabMid\bin\Debug\net10.0\LabMid.deps.json
+C:\Users\dcui\source\repos\LabMid\bin\Debug\net10.0\LabMid.runtimeconfig.json
+C:\Users\dcui\source\repos\LabMid\bin\Debug\net10.0\LabMid.dll
+C:\Users\dcui\source\repos\LabMid\bin\Debug\net10.0\LabMid.pdb
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.dll
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\refint\LabMid.dll
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.pdb
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.genruntimeconfig.cache
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\ref\LabMid.dll
+C:\Users\dcui\source\repos\LabMid\obj\Debug\net10.0\LabMid.csproj.Up2Date
