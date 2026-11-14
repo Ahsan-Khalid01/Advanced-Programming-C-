@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\TikTokToeGame\bin\Debug\net10.0\TikTokToeGame.exe
+C:\Users\dcui\source\repos\TikTokToeGame\bin\Debug\net10.0\TikTokToeGame.deps.json
+C:\Users\dcui\source\repos\TikTokToeGame\bin\Debug\net10.0\TikTokToeGame.runtimeconfig.json
+C:\Users\dcui\source\repos\TikTokToeGame\bin\Debug\net10.0\TikTokToeGame.dll
+C:\Users\dcui\source\repos\TikTokToeGame\bin\Debug\net10.0\TikTokToeGame.pdb
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.AssemblyInfo.cs
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.dll
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\refint\TikTokToeGame.dll
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.pdb
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokToeGame.genruntimeconfig.cache
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\ref\TikTokToeGame.dll
+C:\Users\dcui\source\repos\TikTokToeGame\obj\Debug\net10.0\TikTokTo.EF91C17B.Up2Date
