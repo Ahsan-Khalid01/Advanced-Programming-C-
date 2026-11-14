@@ -1,0 +1,15 @@
+C:\Users\dcui\source\repos\Sanaulllah lab\bin\Debug\net10.0\Sanaulllah lab.exe
+C:\Users\dcui\source\repos\Sanaulllah lab\bin\Debug\net10.0\Sanaulllah lab.deps.json
+C:\Users\dcui\source\repos\Sanaulllah lab\bin\Debug\net10.0\Sanaulllah lab.runtimeconfig.json
+C:\Users\dcui\source\repos\Sanaulllah lab\bin\Debug\net10.0\Sanaulllah lab.dll
+C:\Users\dcui\source\repos\Sanaulllah lab\bin\Debug\net10.0\Sanaulllah lab.pdb
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.AssemblyInfoInputs.cache
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.AssemblyInfo.cs
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.csproj.CoreCompileInputs.cache
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.dll
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\refint\Sanaulllah lab.dll
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.pdb
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulllah lab.genruntimeconfig.cache
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\ref\Sanaulllah lab.dll
+C:\Users\dcui\source\repos\Sanaulllah lab\obj\Debug\net10.0\Sanaulll.A0261582.Up2Date
